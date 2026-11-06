@@ -17,13 +17,13 @@ This project is to help students learn how and where they can use markdown. It's
 - [Installation](#installation)
 - [Usage](#usage)
 - [Prerequisites](#prerequisites)
-- [Expected Output](#Expectedoutput)
-- [Project Files](#Projectfiles)
+- [Expected Output](#Expected-output)
+- [Project Files](#Project-files)
 - [Contributing](#Contributing)
 - [Support](#Support)
 - [License](#License)
 - [Troubleshooting](#Troubleshooting)
-- [Review Checklist](#Reviewchecklist)
+- [Review Checklist](#Review-checklist)
 
 ## Installation
 
@@ -44,7 +44,7 @@ From the repository folder, display the journal in a terminal with this command.
 cat day-1.md
 ```
 
-For formatted reading, open [the journal](../day-1.md) on GitHub and select Preview when editing. Check or uncheck tasks by editing their Markdown and committing your changes.
+For formatted reading, open [the journal of changes](../day-1.md) on GitHub and select Preview when editing. Check or uncheck tasks by editing their Markdown and committing your changes.
 
 
 ## Prerequisites
