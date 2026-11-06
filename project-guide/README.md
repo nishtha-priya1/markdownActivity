@@ -19,6 +19,9 @@ This project is to help students learn how and where they can use markdown. It's
 - [Prerequisites](#prerequisites)
 - [Expected Output](#Expectedoutput)
 - [Project Files](#Projectfiles)
+- [Contributing](#Contributing)
+- [Support](#Support)
+- [License](#License)
 
 ## Installation
 
@@ -65,3 +68,17 @@ On GitHub, the same headings appear at different sizes and task markers become c
 | --- | --- |
 | [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
 | [Project README](README.md) | Setup and usage instructions |
+
+## Contributing
+
+You can create a branch in the repository and preview markdown and check links by clicking to open it within the browser. There's no way to run the tests for the journal, rather it's run by looking at the current actions.
+
+## Support
+
+You can ask for help by including the exact lesson number and what you were trying.
+
+[Issues Tab](https://github.com/nishtha-priya1/markdownActivity/issues).
+
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
