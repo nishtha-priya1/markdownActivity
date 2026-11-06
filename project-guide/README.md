@@ -22,13 +22,15 @@ This project is to help students learn how and where they can use markdown. It's
 - [Contributing](#Contributing)
 - [Support](#Support)
 - [License](#License)
+- [Troubleshooting](#Troubleshooting)
+- [Review Checklist](#Reviewchecklist)
 
 ## Installation
 
 Run these commands in a terminal to download this repository, then enter its folder:
 
 ```bash
-git clone --branch start-blog https://github.com/nishtha-priya1/markdownActivity.git
+git clone https://github.com/nishtha-priya1/markdownActivity.git
 cd skills-communicate-using-markdown
 ```
 
@@ -82,3 +84,14 @@ You can ask for help by including the exact lesson number and what you were tryi
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
+
+## Troubleshooting
+
+If you are running into problems with it not passing checks, make sure all commits are being made on the current branch and that you are spelling titles or headings correctly.
+
+## Review checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
