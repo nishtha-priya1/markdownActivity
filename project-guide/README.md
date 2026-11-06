@@ -71,7 +71,7 @@ On GitHub, the same headings appear at different sizes and task markers become c
 
 ## Contributing
 
-You can create a branch in the repository and preview markdown and check links by clicking to open it within the browser. There's no way to run the tests for the journal, rather it's run by looking at the current actions.
+You can create a branch in the repository and preview markdown and check links by clicking to open it within the browser. There's no way to run the tests for the journal, rather it's run by looking at the current actions. You can also do a pull request to get any new changed being made to the repo.
 
 ## Support
 
