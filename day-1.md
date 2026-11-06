@@ -11,3 +11,12 @@ Convert an image or video from dark mode to light mode using [ffmpeg](https://ww
 ```bash
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
 ```
+
+## Learning Metrics
+After day $d_1$, I completed $c$ practice tasks.
+
+$$
+p = \frac{c}{t} \times 100
+$$
+
+c represents how many practice tests I have completed. t represents how many tasks I have to do in total. p represents a percentage of how much of my tasks I have completed. An example of this is if I did 3 tasks and I had a total of 10 tasks, c would be 3, t would be 10 and p would be 30.
