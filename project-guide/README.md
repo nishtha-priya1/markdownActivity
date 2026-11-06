@@ -10,7 +10,6 @@ This project is to help students learn how and where they can use markdown. It's
 - Organize daily learning with headings.
 - Explain progress using mathematical expressions.
 
-
 ## Contents
 
 - [Overview](#overview)
@@ -18,6 +17,8 @@ This project is to help students learn how and where they can use markdown. It's
 - [Installation](#installation)
 - [Usage](#usage)
 - [Prerequisites](#prerequisites)
+- [Expected Output](#Expectedoutput)
+- [Project Files](#Projectfiles)
 
 ## Installation
 
@@ -32,6 +33,35 @@ Open `day-1.md` in your editor to confirm the journal is present. No build or de
 
 ## Usage
 
+From the repository folder, display the journal in a terminal with this command. On Windows PowerShell, use `Get-Content day-1.md` instead.
+
+```bash
+cat day-1.md
+```
+
+For formatted reading, open [the journal](../day-1.md) on GitHub and select Preview when editing. Check or uncheck tasks by editing their Markdown and committing your changes.
+
+
 ## Prerequisites
 
 Use a web browser to read the journal on GitHub. For a local copy, install Git and a text editor. A GitHub account with repository access is required to contribute.
+
+
+## Expected output
+
+The terminal displays the source Markdown of the file. The rendered Markdown is when you open a preview of a file.
+
+```text
+# Daily Learning
+
+## Morning Planning
+```
+
+On GitHub, the same headings appear at different sizes and task markers become checkboxes.
+
+## Project files
+
+| File | Purpose |
+| --- | --- |
+| [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
+| [Project README](README.md) | Setup and usage instructions |
