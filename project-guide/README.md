@@ -17,13 +17,13 @@ This project is to help students learn how and where they can use markdown. It's
 - [Installation](#installation)
 - [Usage](#usage)
 - [Prerequisites](#prerequisites)
-- [Expected Output](#Expected-output)
-- [Project Files](#Project-files)
-- [Contributing](#Contributing)
-- [Support](#Support)
-- [License](#License)
-- [Troubleshooting](#Troubleshooting)
-- [Review Checklist](#Review-checklist)
+- [Expected Output](#expected-output)
+- [Project Files](#project-files)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
+- [Troubleshooting](#troubleshooting)
+- [Review Checklist](#review-checklist)
 
 ## Installation
 
